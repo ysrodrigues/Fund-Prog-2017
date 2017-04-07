@@ -1,2 +1,7 @@
-# Fund-Prog-2017
-Exercicios de Fundamentos da Programação 2017
+# Fundamentos de Programação
+
+AD's 1º Semestre 2017
+
+* AD 1:
+
+* AD 2:
