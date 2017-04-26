@@ -11,10 +11,6 @@ AD's 1º Semestre 2017
 
 	- Exercício 4: Verifica se um número é perfeito ou não.
 
-	- Exercício 5: Verifica se um mapa contem um caminho para um tesouro.
-
-	- Exercício 6:
-
 * AD 2:
 	- Exercício 1:
 
